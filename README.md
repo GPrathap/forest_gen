@@ -1,4 +1,4 @@
-## This work based on [this](https://github.com/ethz-asl/forest_gen) in which removed some dependencies and make it lightweight which does support Gazabo 9 
+## This work based on [this](https://github.com/ethz-asl/forest_gen) in which removed some dependencies and make it lightweight. Also added support for Gazabo 9 
 # forest_gen
 Generates randomized Poisson forests to use for UAV collision avoidance evaluations.
 
